@@ -1,0 +1,5 @@
+{
+    "python.dataScience.jupyterServerURI": "local",
+    "python.pythonPath": "/opt/miniconda3/envs/tensorflow/bin/python3.7",
+    "git.ignoreLimitWarning": true
+}
